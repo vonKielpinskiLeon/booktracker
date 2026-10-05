@@ -1,1 +1,1 @@
-# booktracker
+# Booktracker, in den man eintragen kann welche Bücher man bisher gelesen hat, von welchem Autor sie sind und welche Bewertung man ihnen gibt.
